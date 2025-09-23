@@ -1,0 +1,1205 @@
+{
+  "timestamp": "2025-09-23T10:34:18.676447",
+  "total_processed": 60,
+  "total_api_calls": 60,
+  "processing_type": "comprehensive_sarcastic_content",
+  "fields_generated": [
+    "description",
+    "category",
+    "emotion",
+    "dialogues",
+    "hashtags",
+    "template_path"
+  ],
+  "processed_news": [
+    {
+      "description": "Oh goodie, more blockades! Just what everyone needed.\nApparently, some folks want to play 'let's inconvenience the nation' again.\nIs this the sequel to 'Road Rage: The Government Edition'?",
+      "category": "politics",
+      "hashtags": [
+        "#KurmiChaos",
+        "#STStatusStruggle",
+        "#RoadBlockBlues",
+        "#PoliticalDrama",
+        "#InconvenienceTheNation",
+        "#SarcasmOverload",
+        "#JustAnotherDay",
+        "#FacepalmFriday"
+      ],
+      "dialogues": [
+        "When: Demands. Me: Facepalm. POV: Traffic.",
+        "Meanwhile: Politicians. Everyone: Sighs. My reaction: Popcorn."
+      ],
+      "url": "https://indianexpress.com/article/political-pulse/why-tmc-govt-is-on-alert-as-kurmis-reignite-st-status-demand-threaten-rail-and-road-blockade-in-3-states-10260346/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735290135501-45455319_250014402358314_8535311395497967616_n.jpg"
+    },
+    {
+      "description": "Priyanka's in town, but Wayanad is a no-go? Bless her heart.\nLocal politics? Apparently, that's beneath her.\nWorkers aren't happy? Shocking, just shocking.",
+      "category": "politics",
+      "hashtags": [
+        "#WayanadWoes",
+        "#PriyankaNoShow",
+        "#PoliticalDrama",
+        "#SarcasmIsMySuperpower",
+        "#IndiaPolitics",
+        "#MissingInAction",
+        "#LocalProblems",
+        "#FacePalm"
+      ],
+      "dialogues": [
+        "When Wayanad needs her: Priyanka: 'Nah, I'm good.'",
+        "POV: Congress in crisis. Everyone: *crickets*"
+      ],
+      "url": "https://indianexpress.com/article/political-pulse/wayanad-congress-crisis-priyanka-gandhi-visit-workers-not-happy-10260217/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1738328085202-451076543_1393248048034938_7847779116893311050_n.jpg"
+    },
+    {
+      "description": "Oh look, voter deletions! Groundbreaking stuff, folks.\nGuess a BLO finally woke up from their nap.\nMeanwhile, politicians are shocked, *shocked* I tell you!",
+      "category": "politics",
+      "hashtags": [
+        "#KarnatakaElections",
+        "#VoterDeletionDrama",
+        "#AlertBLO",
+        "#PoliticalShenanigans",
+        "#SarcasmOverload",
+        "#DemocracyAtItsFinest",
+        "#FacePalm"
+      ],
+      "dialogues": [
+        "When voter lists get 'scrubbed': Me: *Yawn*",
+        "POV: Democracy in action. Everyone: Is this real"
+      ],
+      "url": "https://indianexpress.com/article/political-pulse/karnataka-voter-deletions-rahul-gandhi-blo-10258585/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736335137903-92191123_510145629678522_1042724025454821376_n.jpg"
+    },
+    {
+      "description": "Oh good, the UN finally noticed the world changed. India's influence? More like 'India's been knocking politely for decades'!  Let's hope this reform isn't another committee to nowhere.",
+      "category": "politics",
+      "hashtags": [
+        "#UNReforms",
+        "#IndiaGetsASeat?",
+        "#GlobalPolitics",
+        "#WorldOrderProblems",
+        "#SarcasmIsMyLoveLanguage",
+        "#DiplomacyFail",
+        "#StillWaiting",
+        "#UNBetterLateThanNever"
+      ],
+      "dialogues": [
+        "When the UN reforms... Me: Finally!",
+        "POV: The world changes... Everyone: About time."
+      ],
+      "url": "https://timesofindia.indiatimes.com/india/india-a-pivotal-voice-un-chief-guterres-backs-calls-for-unsc-reform-wants-council-to-represent-world-of-2025-not-1945/articleshow/124060926.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736329763466-53892520_299013804125040_7803225363672203264_n.jpg"
+    },
+    {
+      "description": "Oh good, more rain. Just what Kolkata needed to spice things up. I bet the yellow alert means we're *almost* as doomed as usual.\nGuess I'll cancel my plans to, you know, *not* drown in a puddle.",
+      "category": "politics",
+      "hashtags": [
+        "#KolkataRains",
+        "#YellowAlertMadness",
+        "#MonsoonMisery",
+        "#SarcasmOverload",
+        "#IndiaWeather",
+        "#FloodingFun",
+        "#WestBengalWoes",
+        "#JustAnotherDay"
+      ],
+      "dialogues": [
+        "When: Kolkata gets a yellow alert. Me: Awesome!",
+        "POV: You're in Kolkata. Everyone: We're doomed."
+      ],
+      "url": "https://www.hindustantimes.com/india-news/imd-warns-of-heavy-rain-in-west-bengal-next-3-days-yellow-alert-for-kolkata-101758590966258.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735280586568-kgf_104.jpg"
+    },
+    {
+      "description": "Oh, joy, another Bhubaneswar tourism advertisement gone wrong.\nLooks like someone took the 'ride or die' thing a *little* too literally.  At least they got the fare paid, right?",
+      "category": "crime",
+      "hashtags": [
+        "#BhubaneswarBlues",
+        "#TaxiTroubles",
+        "#CrimeDoesntPay (Except for the undertaker)",
+        "#DarkHumor",
+        "#OhIndia",
+        "#JusticeServed?",
+        "#SarcasmIsMySuperpower",
+        "#ViralCrime"
+      ],
+      "dialogues": [
+        "When the taxi fare is REALLY high. Me:",
+        "POV: Bhubaneswar cab ride. Everyone: Pray for death."
+      ],
+      "url": "https://www.hindustantimes.com/india-news/police-arrest-4-for-kidnap-suicide-of-taxi-driver-in-bhubaneswar-101758565818594.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736398755507-60310593_321015385258215_188025563615592448_n.jpg"
+    },
+    {
+      "description": "Oh good, more surveys! Because that's always worked swimmingly. \nI bet everyone's thrilled. Especially the parties not so thrilled. ",
+      "category": "politics",
+      "hashtags": [
+        "#KarnatakaCasteSurvey",
+        "#PoliticsHumor",
+        "#SurveySays",
+        "#BJPvsCongress",
+        "#SarcasmOverload",
+        "#IndiaPolitics",
+        "#Facepalm",
+        "#CasteAndChaos"
+      ],
+      "dialogues": [
+        "POV: The poll results are shocking!",
+        "Everyone: Definitely NOT what we expected."
+      ],
+      "url": "https://indianexpress.com/article/political-pulse/karnataka-caste-survey-tomorrow-unease-congress-bjps-objections-10263294/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735797494762-100778031_542286003131151_3470397316777639936_n.jpg"
+    },
+    {
+      "description": "Oh, family drama! Someone's advisor is *too* popular?\nGuess unfollowing is the new passive-aggressive power move.\nPopcorn, anyone?",
+      "category": "politics",
+      "hashtags": [
+        "#PoliticalBackstabbing",
+        "#FamilyFeud",
+        "#AdvisorDrama",
+        "#PowerStruggle",
+        "#BiharPolitics",
+        "#SarcasmWins",
+        "#UnfollowGameStrong",
+        "#TejashwiTakesCharge"
+      ],
+      "dialogues": [
+        "When: Tejashwi gets a promotion. Me: *Unfollows*",
+        "POV: Family dinner. Everyone: Awkward silence."
+      ],
+      "url": "https://indianexpress.com/article/political-pulse/discord-lalu-prasads-family-over-growing-clout-tejashwis-advisor-rohini-acharya-unfollows-father-brother-10263258/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736413860359-45313963_248838532475901_2499330980955815936_n.jpg"
+    },
+    {
+      "description": "Oh, goodie! President's Rule again. It's like musical chairs, but with political parties. Prepare for the same circus, different clowns!",
+      "category": "politics",
+      "hashtags": [
+        "#PresidentialRuleRhapsody",
+        "#PoliticalMusicalChairs",
+        "#NewPartyWhoDis",
+        "#DemocracyHumor",
+        "#SarcasmIsMyLoveLanguage",
+        "#Politics",
+        "#ViralPolitics",
+        "#ClownShow"
+      ],
+      "dialogues": [
+        "When stability arrives: Me: Yeah, right.",
+        "POV: Democracy. Everyone: LOL, sure."
+      ],
+      "url": "https://indianexpress.com/article/political-pulse/135-instances-presidents-rule-two-thirds-new-party-came-to-power-post-it-10260870/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736417289080-77315998_417661205593632_2474338935627579392_n.jpg"
+    },
+    {
+      "description": "Oh no, a party song was *disrespected*? The horror!\nJayant Chaudhary's muscles are flexing – must be a serious threat to… what, precisely?\nGuess we'll have to wait for the dramatic resolution involving… more political theatrics.",
+      "category": "politics",
+      "hashtags": [
+        "#PoliticalMelodrama",
+        "#SongSacrifice",
+        "#MuscleFlexingMadness",
+        "#DramaQueenPoliticians",
+        "#IndiaPolitics",
+        "#SarcasmOverload",
+        "#YawnFest",
+        "#NewsCycleShenanigans"
+      ],
+      "dialogues": [
+        "When disrespecting a song: Me: *eye roll*",
+        "POV: Political drama. Everyone: Zzzzzzzzzz."
+      ],
+      "url": "https://indianexpress.com/article/political-pulse/a-new-strain-in-rld-bjp-alliance-after-disrespect-to-party-song-jayant-chaudhary-flexes-muscle-s-10260011/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735367386982-68307839_362143007812119_2657700499767164928_n.jpg"
+    },
+    {
+      "description": "Oh goodie, more Mandalorian. Can't wait to see the dramatic tension develop in this one.\nI'm sure it'll be as original as the last seven seasons.\nPrepare for baby Yoda, the sequel.",
+      "category": "movies",
+      "hashtags": [
+        "#TheMandalorianAndGrogu",
+        "#StarWarsAgain",
+        "#BabyYodaRoundTwo",
+        "#DisneyPlus",
+        "#SarcasmIsMyLoveLanguage",
+        "#MovieMagic",
+        "#CantWaitForTheNextOne",
+        "#PlotTwist"
+      ],
+      "dialogues": [
+        "When: another Star Wars. Me: Sigh.",
+        "POV: Studio execs. Everyone: Profit!"
+      ],
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-mandalorian-and-grogu-trailer-pedro-pascal-returns-as-din-djarin-with-grogu-in-new-film-adventure/articleshow/124050880.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734776273388-468306045_1477071992985876_734860726192493829_n.jpg"
+    },
+    {
+      "description": "Oh goodie, another *Jolly LLB*. Can't wait for more courtroom drama... and mediocre acting.\nI'm sure the box office will be thrilled, just like I'm thrilled to pay taxes.\nPrepare yourselves for a cinematic masterpiece, folks!",
+      "category": "movies",
+      "hashtags": [
+        "#JollyLLB3",
+        "#BollywoodBlunders",
+        "#BoxOfficeBomb",
+        "#SarcasmOverload",
+        "#MovieMagic(Not)",
+        "#SequelSeason",
+        "#PleaseMakeItStop",
+        "#WorstMovieEver"
+      ],
+      "dialogues": [
+        "When: Another sequel. Me: Ugh, again?",
+        "POV: The movie's budget. Everyone: Where's the plot?"
+      ],
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/jolly-llb-3-box-office-collection-day-3-the-akshay-kumar-arshad-warsi-film-sees-growth-on-sunday-crosses-rs-50-crore/articleshow/124035122.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735631742073-45502978_249503232409431_6216676951474569216_n.jpg"
+    },
+    {
+      "description": "Oh goodie, more trending videos. Prepare for the intellectual feast, folks. I bet they're all groundbreaking, life-altering masterpieces, right?",
+      "category": "entertainment",
+      "hashtags": [
+        "#TrendingVideos",
+        "#EntertainmentNews",
+        "#BrainRot",
+        "#WaitForIt",
+        "#GroundBreaking",
+        "#NotReally",
+        "#ScrollingForever",
+        "#SarcasmWins"
+      ],
+      "dialogues": [
+        "When: Trending videos. Me: I'm so excited. POV:",
+        "Meanwhile: My brain. Everyone: Ugh, more videos."
+      ],
+      "url": "https://www.news18.com/videos/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734600604824-ee%20nagaraniki%20emaindhi_86.jpg"
+    },
+    {
+      "description": "Oh joy, another Akshay Kumar film graces us with its presence. Crossing 50 cr? Groundbreaking. Still, at least it's only the 8th highest... for now.",
+      "category": "movies",
+      "hashtags": [
+        "#JollyLLB3",
+        "#BollywoodBlockbuster",
+        "#AkshayKumar",
+        "#BoxOfficeSlamDunk",
+        "#8thHighest",
+        "#MovieMagic?",
+        "#SarcasmOverload",
+        "#SoOriginal"
+      ],
+      "dialogues": [
+        "When the sequel's better? Me: LOL yeah right.",
+        "POV: Watching the box office. Everyone: Meh."
+      ],
+      "url": "https://indianexpress.com/article/entertainment/bollywood/jolly-llb-3-box-office-collection-day-3-akshay-kumar-arshad-warsis-courtroom-comedy-crosses-rs-50-cr-8th-highest-first-weekend-earner-of-2025-10263779/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735643394867-44953597_247634852596269_8228305612761464832_n.jpg"
+    },
+    {
+      "description": "Oh good, another mansion we can't afford! Apparently, having a room in Ranbir's place is more important than world peace.\nMeanwhile, I'm pretty sure my apartment is powered by a hamster wheel. \nCelebrity problems, am I right?",
+      "category": "entertainment",
+      "hashtags": [
+        "#RiddhimaRich",
+        "#DelhiDreams",
+        "#CelebrityHomes",
+        "#LuxuryLife",
+        "#PoorButHappy",
+        "#FirstWorldProblems",
+        "#SarcasmWins",
+        "#BollyBliss"
+      ],
+      "dialogues": [
+        "When: Luxury homes. Me: I'll take ramen.",
+        "POV: Their house. Everyone: My cardboard box."
+      ],
+      "url": "https://indianexpress.com/article/entertainment/bollywood/inside-riddhima-kapoor-lavish-delhi-home-7-star-hotel-ranbir-kapoor-alia-bhatt-bandra-house-neetu-kapoor-entire-floor-10264644/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736597539844-66053489_345991349427285_3385656284882665472_n.jpg"
+    },
+    {
+      "description": "Oh good, another remake nobody asked for. Looks like Pawan Kalyan and Emraan Hashmi are about to give us the 'Jo Jeeta Wohi Sikandar' we deserve...or maybe don't. Prepare for Bollywood deja vu.",
+      "category": "movies",
+      "hashtags": [
+        "#OGTrailerFail",
+        "#PawanKalyanRemake",
+        "#EmraanHashmiStruggles",
+        "#BollywoodBoredom",
+        "#JoJeetaWohkiSikandar2PointO",
+        "#PredictablePlotlines",
+        "#SarcasmIsMySuperpower"
+      ],
+      "dialogues": [
+        "POV: The audience is already exhausted.",
+        "Me: Please be better than the trailer."
+      ],
+      "url": "https://indianexpress.com/article/entertainment/telugu/they-call-him-og-trailer-pawan-kalyan-and-emraan-hashmi-lock-horns-in-a-jo-jeeta-wohi-sikandar-battle-watch-10264488/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736337887781-468235033_1477070746319334_6867680918754604783_n.jpg"
+    },
+    {
+      "description": "Akshay Kumar's financial anxieties are evolving. From 100 cr to 2000 cr... the fear is real!\nMeanwhile, he's still policing the light switches. Truly a relatable billionaire.",
+      "category": "entertainment",
+      "hashtags": [
+        "#AkshayKumar",
+        "#BollywoodGreed",
+        "#MoneyMakesTheWorldGoRound",
+        "#RichPeopleProblems",
+        "#SaveElectricity",
+        "#KanjoosKing",
+        "#2000CroreClub",
+        "#CelebritySarcasm"
+      ],
+      "dialogues": [
+        "When: You're Akshay. Me: Money, money, money!",
+        "POV: Akshay's accountant. Everyone: Lights off, sir?"
+      ],
+      "url": "https://indianexpress.com/article/entertainment/bollywood/akshay-kumar-felt-safe-when-he-had-rs-100-cr-fixed-deposit-now-wants-rs-2000-cr-fd-still-switches-off-lights-when-kids-leave-a-room-not-kanjoosi-akshay-kumar-first-made-his-screen-prese-10263826/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1738324750475-19.jpg"
+    },
+    {
+      "description": "Oh goodie, another origin story. Because we REALLY needed that. Rishab Shetty, protector of... dharma? Sounds riveting. I'll cancel all my plans.",
+      "category": "movies",
+      "hashtags": [
+        "#Kantara2",
+        "#OriginStoryOverload",
+        "#DharmaDefender",
+        "#RishabShetty",
+        "#MovieTrailers",
+        "#SarcasticCinema",
+        "#Overhyped",
+        "#WaitForTheSequel"
+      ],
+      "dialogues": [
+        "When: Trailers. Me: Sigh. POV: The Cinema.",
+        "Meanwhile: The budget for more origin stories?"
+      ],
+      "url": "https://indianexpress.com/article/entertainment/regional/kantara-2-trailer-rishab-shetty-sets-the-stage-for-a-monumental-origin-tale-10264313/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735558406499-272859822_896426794383735_7503037808528147871_n.jpg"
+    },
+    {
+      "description": "Oh, the *entire* industry? Guess my invite got lost in the mail. Surely, I was on the *A* list...right? Another 4 AM shindig. Groundbreaking.",
+      "category": "entertainment",
+      "hashtags": [
+        "#BollywoodBash",
+        "#AryanKhanParty",
+        "#IndustryDrama",
+        "#CelebLife",
+        "#AfterPartyShenanigans",
+        "#NeverInvited",
+        "#SarcasmOverload",
+        "#LateNightLies"
+      ],
+      "dialogues": [
+        "When: The hangover hits. Me: Reality bites.",
+        "POV: Aryan Khan's party. Everyone: Desperate for relevance."
+      ],
+      "url": "https://indianexpress.com/article/entertainment/bollywood/inside-aryan-khans-bads-of-bollywood-afterparty-classmates-reveal-bash-went-on-till-4-am-entire-industry-turned-up-10265925/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735792212528-45543867_250391548987266_2881569219030286336_n.jpg"
+    },
+    {
+      "description": "Oh, goodie, Bollywood's finest are gracing Netflix. \nMoney Heist, watch out, the drama is about to get… *interesting*. \nPrepare for questionable plotlines and questionable acting!",
+      "category": "movies",
+      "hashtags": [
+        "#BollywoodBanter",
+        "#NetflixAndChill (Maybe Not)",
+        "#MovieMadness",
+        "#BollywoodBreaksNetflix",
+        "#DramaQueens",
+        "#CringeAlert",
+        "#WatchAtYourOwnRisk"
+      ],
+      "dialogues": [
+        "When: Netflix charts are a joke. Me: Always.",
+        "POV: Bollywood on Netflix. Everyone: Why tho?"
+      ],
+      "url": "https://indianexpress.com/article/entertainment/web-series/the-bads-of-bollywood-breaks-into-netflix-top-10-rankings-globally-challenges-money-heist-creators-billionaires-bunker-10265843/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736506611497-65858996_345656706127416_769495179794055168_n.jpg"
+    },
+    {
+      "description": "Oh, *Jolly LLB 3* took a dive? Shocking. I'm practically clutching my pearls. Guess those courtroom comedies are REALLY hitting the funny bone, huh?",
+      "category": "movies",
+      "hashtags": [
+        "#JollyLLB3Fail",
+        "#BoxOfficeBomb",
+        "#BollywoodDrama",
+        "#ComedyGoneWrong",
+        "#AkshayKumarWho?",
+        "#ArshadWarsiSavedTheDay",
+        "#MovieMondayBlues",
+        "#SarcasmIsMySuperpower"
+      ],
+      "dialogues": [
+        "When Monday hits: Jolly LLB 3 earnings.",
+        "Me: More like, 'Jolly LLB 3, no thanks!''"
+      ],
+      "url": "https://indianexpress.com/article/entertainment/bollywood/jolly-llb-3-box-office-collection-day-4-akshay-kumar-arshad-warsi-rs-59-cr-10265860/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734960473779-Dubai%20seenu_19.jpg"
+    },
+    {
+      "description": "Oh, look, Bollywood is challenging the *real* content. Guess quality is optional on Netflix now.\nBillionaires' Bunker must be quaking in their diamond-encrusted boots.\nPrepare for the most dramatic plot twists... or not.",
+      "category": "entertainment",
+      "hashtags": [
+        "#BollywoodBlunders",
+        "#NetflixAndChill(ax)!",
+        "#BillionairesBummer",
+        "#SarcasticCinema",
+        "#MovieMadness",
+        "#StreamingWars",
+        "#QualityIsSubjective",
+        "#OutOfIdeas"
+      ],
+      "dialogues": [
+        "When: Bollywood hits #1. Me: *Surprised Pikachu face*",
+        "POV: Critics reviewing it. Everyone: *Facepalms*"
+      ],
+      "url": "https://indianexpress.com/article/entertainment/web-series/the-bads-of-bollywood-breaks-into-netflix-top-10-rankings-globally-challenges-money-heist-creators-billionaires-bunker-10265843/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735621479022-468358817_1477070699652672_7212789870144932212_n.jpg"
+    },
+    {
+      "description": "Two years wasted? Sounds like a Bollywood audition.\nMaybe he should've asked ChatGPT how to 'survive' the industry.\nProbably should have asked a psychic, not Anurag Kashyap.",
+      "category": "movies",
+      "hashtags": [
+        "#ShaktimaanFail",
+        "#BollywoodBlues",
+        "#ActorLife",
+        "#AnuragKashyapWasted",
+        "#ComedyGold",
+        "#DramaAlert",
+        "#ViralBollywood",
+        "#SurvivalOfTheFittest"
+      ],
+      "dialogues": [
+        "When: Shaktimaan fails. Me: My career.",
+        "POV: Bollywood. Everyone: Just another drama."
+      ],
+      "url": "https://indianexpress.com/article/entertainment/malayalam/basil-joseph-told-anurag-kashyap-he-wasted-two-years-of-my-life-trying-to-do-shaktimaan-10265258/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735885293239-455009925_1050882047041984_2305886276710007972_n.jpg"
+    },
+    {
+      "description": "Oh no, not the vape! The NHRC is on the case! Someone call the fashion police, this is a national crisis. Are we sure it wasn't a *gasp* non-branded vape?",
+      "category": "entertainment",
+      "hashtags": [
+        "#VapeGate",
+        "#BollywoodDrama",
+        "#RanbirKapoorScandal",
+        "#NetflixAndChillWithNHRC",
+        "#SmokingHotControversy",
+        "#SarcasmOverload",
+        "#CelebShenanigans",
+        "#PopcornReady"
+      ],
+      "dialogues": [
+        "When the vape is the real star. Me:",
+        "POV: The NHRC's new favorite hobby: snitching."
+      ],
+      "url": "https://indianexpress.com/article/entertainment/bollywood/nhrc-demands-action-against-ranbir-kapoor-netflix-and-gauri-khan-as-actor-seen-vaping-in-aryan-khans-the-bads-of-bollywood-10264830/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736575476696-92255721_513617262664692_5904091005493182464_n.jpg"
+    },
+    {
+      "description": "Oh, goody, another sequel that's smashing box office records! Clearly, we've reached peak originality in cinema. Prepare yourselves, folks, for more of the same, just... different.",
+      "category": "movies",
+      "hashtags": [
+        "#JollyLLB3",
+        "#BollywoodBlockbuster",
+        "#SameOldStory",
+        "#BoxOfficeBonanza",
+        "#Sequelitis",
+        "#SarcasmWins",
+        "#AkshayKumarForever"
+      ],
+      "dialogues": [
+        "POV: The audience. Everyone: yawn.",
+        "Me: Another sequel? My therapist: Sigh..."
+      ],
+      "url": "https://indianexpress.com/article/entertainment/bollywood/jolly-llb-3-box-office-collection-day-3-akshay-kumar-arshad-warsis-courtroom-comedy-crosses-rs-50-cr-8th-highest-first-weekend-earner-of-2025-10263779/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734684711302-45219425_249064602453294_7428747912458272768_n.jpg"
+    },
+    {
+      "description": "Akshay needs 2000cr to feel 'safe'? Someone check the carbon footprint of his anxiety.\nMeanwhile, kids are leaving lights on and the world is ending! (allegedly).\nIs this kanjoosi, or just pre-apocalyptic budgeting?",
+      "category": "entertainment",
+      "hashtags": [
+        "#AkshayKumar",
+        "#KanjoosiKing",
+        "#RichPeopleProblems",
+        "#BollywoodDrama",
+        "#EcoWarrior",
+        "#SarcasmOverload",
+        "#TrendingNow",
+        "#MoneyMakesMeSafe"
+      ],
+      "dialogues": [
+        "When... 100cr wasn't enough. Me: *Shocked Pikachu face*",
+        "POV: You're rich. Everyone: Just... turn the lights"
+      ],
+      "url": "https://indianexpress.com/article/entertainment/bollywood/akshay-kumar-felt-safe-when-he-had-rs-100-cr-fixed-deposit-now-wants-rs-2000-cr-fd-still-switches-off-lights-when-kids-leave-a-room-not-kanjoosi-akshay-kumar-first-made-his-screen-prese-10263826/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1738327242898-106164021_557817848244633_2030660979167038720_n.jpg"
+    },
+    {
+      "description": "Oh goodie, another Bollywood afterparty. I bet the only thing missing was a tax audit.  Guess those 'classmates' finally got their invite to the real show.",
+      "category": "entertainment",
+      "hashtags": [
+        "#Ba**dsOfBollywood",
+        "#AryanKhanParty",
+        "#BollywoodDrama",
+        "#EntourageGoals",
+        "#NeverEndingNight",
+        "#RichKidsOfBollywood",
+        "#SarcasmOverload",
+        "#IndustryInsiders"
+      ],
+      "dialogues": [
+        "When: The hangover. Me: Regret.",
+        "POV: Paparazzi. Everyone: Free publicity."
+      ],
+      "url": "https://indianexpress.com/article/entertainment/bollywood/inside-aryan-khans-bads-of-bollywood-afterparty-classmates-reveal-bash-went-on-till-4-am-entire-industry-turned-up-10265925/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735646668378-88423271_494088597950892_7864254791659028480_n.jpg"
+    },
+    {
+      "description": "Someone clearly has too much money and not enough sense.\nImagine paying that much to see a movie before everyone else.\nI bet the popcorn was gold-plated.",
+      "category": "movies",
+      "hashtags": [
+        "#OGMania",
+        "#PawanKalyanFever",
+        "#RichPeopleProblems",
+        "#MovieTicketsAreExpensive",
+        "#SarcasmIsMySuperpower",
+        "#CinemaMadness",
+        "#EarlyBirdGetsTheRidiculousPrice",
+        "#BollywoodRoast"
+      ],
+      "dialogues": [
+        "When: The ticket price. Me: My bank account.",
+        "POV: The guy who bought the ticket. Everyone:"
+      ],
+      "url": "https://indianexpress.com/article/entertainment/telugu/pawan-kalyan-film-og-ticket-fetches-rs-129999-at-auction-for-early-morning-benefit-show-10264834/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734773333725-104868742_554463948580023_6639164615321677617_n.jpg"
+    },
+    {
+      "description": "Oh good, another *Jolly LLB*? My expectations are already lower than the film's budget.\nI'm sure the plot is as predictable as my crippling student loan debt.\nCan't wait to witness cinematic *masterpiece*.",
+      "category": "movies",
+      "hashtags": [
+        "#JollyLLB3",
+        "#BollywoodBlockbuster",
+        "#PredictablePlot",
+        "#LegalDramaLOL",
+        "#MovieReview",
+        "#SarcasmIsMyLoveLanguage",
+        "#BoxOfficeBummers"
+      ],
+      "dialogues": [
+        "When trailer drops: Me: *facepalm emoji*",
+        "POV: The plot. Everyone: *yawn*"
+      ],
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/jolly-llb-3-box-office-collection-day-3-the-akshay-kumar-arshad-warsi-film-sees-growth-on-sunday-crosses-rs-50-crore/articleshow/124035122.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735302915782-aparichithudu_65.jpg"
+    },
+    {
+      "description": "Oh, good for Riddhima, finally living up to the Kapoor name.\nI'm sure the common folk are just *thrilled* to hear about it.\nMeanwhile, I can barely afford avocado toast.",
+      "category": "entertainment",
+      "hashtags": [
+        "#RiddhimaKapoor",
+        "#DelhiHomes",
+        "#RichPeopleProblems",
+        "#BollywoodRoyalty",
+        "#HomeTour",
+        "#SarcasmSunday",
+        "#WealthyLife",
+        "#CommonerProblems"
+      ],
+      "dialogues": [
+        "When rich people share their homes: Me: *Yawns*",
+        "POV: The 99%: Meanwhile: Scrolling Instagram, crying."
+      ],
+      "url": "https://indianexpress.com/article/entertainment/bollywood/inside-riddhima-kapoor-lavish-delhi-home-7-star-hotel-ranbir-kapoor-alia-bhatt-bandra-house-neetu-kapoor-entire-floor-10264644/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735632203037-96680951_533312297361855_1129321492538982400_n.jpg"
+    },
+    {
+      "description": "Oh, so hitting sixes is a divine gift? Guess the guy's father also blessed the ball.\nYuvraj, bless his heart, probably just pointed and shouted, 'Hit it hard!'\nInternational stage? Prepare for more dad-related commentary, folks.",
+      "category": "sports",
+      "hashtags": [
+        "#SixHitGod",
+        "#YuvrajMentored",
+        "#CricketDadGoals",
+        "#IndiaCricket",
+        "#SarcasticSports",
+        "#DadKnowsBest",
+        "#NoSkillJustGenes",
+        "#HitItHard"
+      ],
+      "dialogues": [
+        "When: Dad’s a coach. Me: *facepalm*.",
+        "POV: Abhishek hits a six. Everyone: Dad's proud."
+      ],
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/his-six-hitting-ability-is-god-gifted-abhishek-sharmas-father-credits-yuvraj-singh-for-sons-rise/articleshow/124058576.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735021605521-andarivadu_19.jpg"
+    },
+    {
+      "description": "Oh, Suryavanshi 'ignited' the chase. Groundbreaking stuff.\nMeanwhile, the other guys just casually put up a partnership, NBD.\nIndia U19 showing Australia U19 how it's *really* done. Obviously.",
+      "category": "sports",
+      "hashtags": [
+        "#U19Cricket",
+        "#SuryavanshiShow",
+        "#YouthODIs",
+        "#IndiaWins",
+        "#AusVsInd",
+        "#SarcasmIsMySport",
+        "#CricketHumor",
+        "#DominatingPerformance"
+      ],
+      "dialogues": [
+        "When India wins: Australia's team... what's that?",
+        "POV: Cricket. Everyone else: yawning."
+      ],
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-suryavanshi-stamps-authority-in-australia-with-whirlwind-knock-watch/articleshow/124060434.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735296670753-302204756_517479693715558_4877072323558933873_n.jpg"
+    },
+    {
+      "description": "Oh good, another Ballon d'Or. Must be Thursday.\nBonmati again? Is there even a point in voting?\nDembele? Someone's gotta be making bank off these things.",
+      "category": "sports",
+      "hashtags": [
+        "#BallonDorShenanigans",
+        "#BonmatiDominates",
+        "#DembeleWinsAgain?",
+        "#FootballIsLife",
+        "#SarcasticSportsFan",
+        "#RiggedBallot",
+        "#AwardShowFail",
+        "#SportsHumor"
+      ],
+      "dialogues": [
+        "When the votes are rigged: Me: Shocked, I",
+        "POV: Me pretending to care. Everyone: Still asleep."
+      ],
+      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ousmane-dembele-wins-ballon-dor-2025-aitana-bonmati-clinches-third-consecutive-womens-award/articleshow/124058687.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734764781816-athadu_88.jpg"
+    },
+    {
+      "description": "Rohit Sharma offering coaching advice? Brilliant. Probably the only thing Pakistan can win at now.\nIndia wins, and Rohit suddenly becomes a cricket guru. I bet they're regretting that loss already.",
+      "category": "sports",
+      "hashtags": [
+        "#RohitSharmaTheCoach",
+        "#IndiaVsPakistanRivalry",
+        "#CricketHumor",
+        "#AsiaCupFail",
+        "#PakistanCricket",
+        "#SarcasmWins",
+        "#CricketComedy",
+        "#ExpertAdvice"
+      ],
+      "dialogues": [
+        "When Pakistan asks for tips: \"Just don't play",
+        "POV: Pakistan's coach listening to Rohit's advice."
+      ],
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/agar-main-pakistan-ka-coach-bana-rohit-sharmas-comment-goes-viral-after-india-rout-pakistan/articleshow/124050234.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735388230297-47082581_258316184861469_4604400229179981824_n.jpg"
+    },
+    {
+      "description": "Afridi's taking a page from the 'umpiring is my passion' handbook, apparently. Guess the IPL needs a dose of... whatever this is. Is this a compliment? It feels like a threat.",
+      "category": "sports",
+      "hashtags": [
+        "#CricketChaos",
+        "#AfridiOnFire (or maybe not)",
+        "#IPLumpiring",
+        "#SarcasmIsMySport",
+        "#ControversialCall",
+        "#PakCricket",
+        "#Unbelievable",
+        "#UmpireWoes"
+      ],
+      "dialogues": [
+        "When Fakhar gets out: Afridi: 'Future umpire?'",
+        "POV: Afridi thinking of IPL: 'I'm qualified, obviously!'"
+      ],
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/unhone-ipl-me-bhi-umpiring-karni-hai-shahid-afridis-dig-after-fakhar-zaman-dismissal-sparks-row/articleshow/124058832.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734945812647-anjaneyulu_22.jpg"
+    },
+    {
+      "description": "Yuvraj Singh's 'advice'? More like a masterclass in sass. Guess Abhishek Sharma's finally learning how to be *entertaining*.\nBet the net session was as fun as watching paint dry, with a side of cricket.",
+      "category": "sports",
+      "hashtags": [
+        "#YuvrajSinghSavage",
+        "#CricketSarcasm",
+        "#AbhishekSharmaAdvice",
+        "#ViralNetSession",
+        "#SportsComedy",
+        "#CricketHumor",
+        "#SarcasticSports"
+      ],
+      "dialogues": [
+        "When: Yuvraj gives tips. Me: *Zzzzzzzzzzzz*.",
+        "POV: Trying to understand cricket. Everyone: LOL."
+      ],
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/tu-na-sudhri-bas-chakke-maari-jaayi-yuvraj-singhs-advice-shapes-abhishek-sharma-watch-viral-net-session/articleshow/124059148.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734946649515-devudu%20chesina%20manushulu_4.jpg"
+    },
+    {
+      "description": "Dembélé wins the Ballon d'Or? Shocking. Absolutely nobody saw that coming.\nPoor Yamal, denied the record. Guess he'll just have to, you know, *wait*.\nAnother year, another reminder that life's a cruel, ironic joke.",
+      "category": "sports",
+      "hashtags": [
+        "#BallonDorFail",
+        "#DembelesReign",
+        "#YamalGotRobbed",
+        "#FootballDrama",
+        "#UnexpectedWinner",
+        "#SarcasmIsMySport",
+        "#NeverSawThatComing",
+        "#YouthfulDisappointment"
+      ],
+      "dialogues": [
+        "When Dembélé wins: Me: Again?! Really?",
+        "POV: Yamal's career. Everyone: Ouch."
+      ],
+      "url": "https://www.hindustantimes.com/sports/football/ousmane-demb-l-wins-the-ballon-dor-2025-denies-lamine-yamal-a-youngest-ever-record-101758588778386.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735559851468-187574687_749687185724364_1259915823649715163_n.jpg"
+    },
+    {
+      "description": "Andy Reid defending Kelce? Oh, what a shocker.\nGuess loyalty is still a thing, even when caught on camera.\nSomeone grab the popcorn; this is gonna be good.",
+      "category": "sports",
+      "hashtags": [
+        "#KelceDrama",
+        "#AndyReidSpeaks",
+        "#NFLSarcasm",
+        "#SidelineMeltdown",
+        "#ViralFootball",
+        "#SarcasmIsMyLoveLanguage",
+        "#ChiefsKingdom",
+        "#NotSurprisedAtAll"
+      ],
+      "dialogues": [
+        "When: Kelce yells. Me: Pass the salt.",
+        "POV: Reid defends. Everyone: Facepalm central."
+      ],
+      "url": "https://www.hindustantimes.com/sports/us-sports/watch-coach-andy-reid-defends-travis-kelce-as-heated-sideline-exchange-goes-viral-hes-an-emotional-guy-101758547520338.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736505136996-272130868_888582135168201_6390113301360069584_n.jpg"
+    },
+    {
+      "description": "Dembele wins the Ballon d'Or? Did they run out of actual players?\nI guess the judges value consistency in being... inconsistent. \nSomewhere, a goat is weeping.",
+      "category": "sports",
+      "hashtags": [
+        "#DembeleDor",
+        "#BallonDorShenanigans",
+        "#FootballFail",
+        "#UnexpectedWinner",
+        "#SarcasmWins",
+        "#GoatWho?",
+        "#WhereIsMessi",
+        "#WorstBallonDor"
+      ],
+      "dialogues": [
+        "When: Dembele wins. Me: What year is it?",
+        "POV: The Ballon d'Or jury. Everyone: Absolutely clueless."
+      ],
+      "url": "https://indianexpress.com/article/sports/football/paris-st-germain-france-forward-ousmane-dembele-wins-2025-ballon-dor-10265656/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1738328085202-451076543_1393248048034938_7847779116893311050_n.jpg"
+    },
+    {
+      "description": "Dembele wins? Oh, the surprise!\nDid they run out of actual football gods?\nI'm sure the celebrations will be *intense*.",
+      "category": "sports",
+      "hashtags": [
+        "#DembeleBallonDor",
+        "#FootballFail",
+        "#SarcasticSports",
+        "#AwardShowShenanigans",
+        "#WTF",
+        "#UnexpectedWinner",
+        "#SarcasmWins",
+        "#BallonDor2025"
+      ],
+      "dialogues": [
+        "When: Dembele wins. Me: What even is life?",
+        "POV: Ballon d'Or voters. Everyone: We needed content."
+      ],
+      "url": "https://indianexpress.com/article/sports/football/ballon-dor-2025-ceremony-live-updates-lamine-yamal-ousmane-dembele-among-prime-contenders-10264715/",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736329763466-53892520_299013804125040_7803225363672203264_n.jpg"
+    },
+    {
+      "description": "Oh, goodie, another building decided to play Jenga with human lives.  I bet the structural engineers are *thrilled*.  At least the afterlife is getting more residents.",
+      "category": "crime",
+      "hashtags": [
+        "#IndoreCollapse",
+        "#BuildingFail",
+        "#ConstructionNightmare",
+        "#IndiaNews",
+        "#SarcasmWins",
+        "#EngineeringFails",
+        "#DarwinAwards",
+        "#RIPBuilding"
+      ],
+      "dialogues": [
+        "When the building collapses: Me: Oopsie!",
+        "POV: Everyone: 'Surprised' is an understatement."
+      ],
+      "url": "https://www.livemint.com/news/india/madhya-pradesh-two-dead-12-injured-as-three-storey-building-collapses-in-indore-11758594063243.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735187578079-123914874_645132539513163_4161263094336781170_n.jpg"
+    },
+    {
+      "description": "Oh joy, more rain! Kolkata's probably going to look like Venice...minus the gondolas. Guess we'll all be trading in our shoes for wellies again. Because, you know, predictability is overrated.",
+      "category": "weather",
+      "hashtags": [
+        "#KolkataRain",
+        "#MonsoonBlues",
+        "#BayOfBengal",
+        "#WeatherWoes",
+        "#FloodedAgain",
+        "#SarcasmOverload",
+        "#HeavyDownpour",
+        "#RainyDays"
+      ],
+      "dialogues": [
+        "When: Rainfall alert. Me: Stock up!",
+        "POV: Bay of Bengal. Everyone: *Drowning noises*."
+      ],
+      "url": "https://www.livemint.com/news/india/kolkata-rain-low-pressure-bay-of-bengal-imd-alert-waterlogging-areas-traffic-routes-to-avoid-durga-puja-11758593564981.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735038449872-anaganaga%20oka%20roju_8.jpg"
+    },
+    {
+      "description": "Oh good, more diplomatic chaos. India's just *loving* these 'tests.' Guess someone forgot to pack a sense of humor on this diplomatic mission.",
+      "category": "politics",
+      "hashtags": [
+        "#NepalDrama",
+        "#IndianDiplomacyFail",
+        "#PoliticalUpheaval",
+        "#SarcasticNews",
+        "#WorldIsBurning",
+        "#DiplomacyIsDead",
+        "#FacePalm",
+        "#WhoOrderedThis"
+      ],
+      "dialogues": [
+        "When Nepal sneezes, India gets the flu:",
+        "POV: Diplomacy, a real clown show:"
+      ],
+      "url": "https://www.moneycontrol.com/news/opinion/india-faces-diplomatic-test-amid-nepal-s-political-upheaval-13568917.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735387209084-47686016_261649201194834_7339043607766106112_n.jpg"
+    },
+    {
+      "description": "Oh, good, another election integrity campaign. Because *that* always works, right?\nI'm sure the votes will magically appear this time. \nPrepare for more excitement than watching paint dry!",
+      "category": "politics",
+      "hashtags": [
+        "#ElectionIntegrityFail",
+        "#RahulGandhiLOL",
+        "#PoliticalSarcasm",
+        "#IndiaElections",
+        "#VoteForWhat",
+        "#EmptyPromises",
+        "#IronyAlert",
+        "#MaybeNextTime"
+      ],
+      "dialogues": [
+        "When: Promises! Me: Yeah, sure. POV: Reality bites.",
+        "Meanwhile: Everyone: *Yawn*. The Campaign: Crickets."
+      ],
+      "url": "https://www.moneycontrol.com/news/opinion/rahul-gandhi-s-election-integrity-campaign-has-grabbed-attention-but-can-it-deliver-votes-13565950.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735367711875-kgf_146.jpg"
+    },
+    {
+      "description": "Oh good, another foolproof plan. Because nothing says 'fair election' like making sure everyone has a microchip. I can't wait to see what delightfully dystopian future we're building now.",
+      "category": "politics",
+      "hashtags": [
+        "#AadhaarApocalypse",
+        "#ChipInForDemocracy",
+        "#PoliticsIsWeird",
+        "#DystopianDreams",
+        "#ElectionShenanigans",
+        "#SarcasmIsMyOnlyDefense",
+        "#DigitalDictatorship",
+        "#AkhileshKnowsBest"
+      ],
+      "dialogues": [
+        "When democracy gets an upgrade... Me: *facepalm*",
+        "POV: The future of voting. Everyone: *nervous laughter*"
+      ],
+      "url": "https://www.moneycontrol.com/news/india/aadhaar-should-be-integrated-with-chips-to-ensure-fair-elections-akhilesh-yadav-13563624.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735648840076-94784197_524051618287923_6861754092708954112_n.jpg"
+    },
+    {
+      "description": "Oh goodie, another excuse for Bollywood to dress up. I bet the colors are all sponsored. Can we get back to actual news, please?",
+      "category": "entertainment",
+      "hashtags": [
+        "#NavratriNonsense",
+        "#BollywoodDrama",
+        "#ColorCodedCelebrities",
+        "#SponsoredLooks",
+        "#SameShitDifferentDay",
+        "#EntertainmentNews",
+        "#SarcasmIsMyLoveLanguage"
+      ],
+      "dialogues": [
+        "When Navratri is trending: Me: My bank account.",
+        "POV: Bollywood. Everyone: Same outfits, different colors."
+      ],
+      "url": "https://www.moneycontrol.com/entertainment/from-madhuri-dixit-to-nimrit-kaur-look-at-bollywood-actresses-celebrating-9-colours-of-navratari-photo-gallery-13567834.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735644510373-47287537_259083244784763_2732125909275377664_n.jpg"
+    },
+    {
+      "description": "Oh good, more 'Prime Exclusives.' Because what we *really* needed was more stuff we can't afford.\nI'm sure they're *totally* worth the monthly fee.  \nPrepare to be disappointed, again!",
+      "category": "business",
+      "hashtags": [
+        "#PrimeExclusives",
+        "#AmazonFail",
+        "#PayToSeeNothing",
+        "#BillionaireProblems",
+        "#SarcasmOverload",
+        "#OverpricedContent",
+        "#FirstWorldProblems",
+        "#ConsumerismIsDead"
+      ],
+      "dialogues": [
+        "When: New Prime Exclusives. Me: Yawn.",
+        "POV: Paying for Prime. Everyone: Regrets."
+      ],
+      "url": "https://economictimes.indiatimes.com/prime?source=homepage&medium=prime_exclusives_header&campaign=prime_discovery",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1738411919539-51.jpg"
+    },
+    {
+      "description": "Oh goodie, another meeting! I'm sure world peace is just one more handshake away.\\nMeanwhile, the rest of us are just here wondering if the coffee machine works today.\\nPolitics: The never-ending saga of people talking.",
+      "category": "politics",
+      "hashtags": [
+        "#DiplomacyForDummies",
+        "#WorldLeadersFail",
+        "#PoliticsAsUsual",
+        "#JaishankarRubio",
+        "#GoyalGreer",
+        "#GlobalAffairsWhoCares"
+      ],
+      "dialogues": [
+        "When: Diplomacy. Me: Zzzzzz. POV: Snore. Everyone: Yawn.",
+        "Meanwhile: The world burns. Leaders: Networking."
+      ],
+      "url": "https://www.livemint.com/news/india/jaishankar-meets-rubio-goyal-calls-on-greer-in-nyc-amid-tariffs-h-1b-fee-hike-row-what-it-means-for-india-us-ties-11758589799831.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736589246528-468281900_1477081366318272_6631857330414464736_n.jpg"
+    },
+    {
+      "description": "Oh, goodie! Another financial guru's hot takes. I'm sure these eight stocks will solve all our problems. Meanwhile, my portfolio continues to weep.",
+      "category": "business",
+      "hashtags": [
+        "#StockMarketMadness",
+        "#FinancialAdviceIDontWant",
+        "#BuyHighSellLow",
+        "#EconomySucks",
+        "#RichGetRicher",
+        "#SarcasmIsMyLoveLanguage",
+        "#MarketManipulation",
+        "#WorthlessAdvice"
+      ],
+      "dialogues": [
+        "When: they say buy. Me: Sell everything!",
+        "POV: your financial advisor. Everyone: RUN!"
+      ],
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-new-gst-rates-us-india-trade-talks-8-stocks-to-buy-or-sell-on-tuesday-11758555799741.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734766635796-athadu_90.jpg"
+    },
+    {
+      "description": "Oh goodie, more financial advice I definitely understand.\nPrepare for your portfolio to either soar or crash.  Place your bets, folks!",
+      "category": "business",
+      "hashtags": [
+        "#StockMarketMadness",
+        "#FinancialGossip",
+        "#RVNLLoser",
+        "#TCSFail",
+        "#KfinTechBoom",
+        "#MarketCrashOrNot",
+        "#InvestorAnxiety",
+        "#MoneyMovesMaybe"
+      ],
+      "dialogues": [
+        "When: Stocks rise. Me: I'm a genius.",
+        "POV: Your broker. Everyone: Crying in their money"
+      ],
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-tcs-vedanta-rvnl-kfin-technologies-among-shares-in-focus-today-11758591545188.html",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734776273388-468306045_1477071992985876_734860726192493829_n.jpg"
+    },
+    {
+      "description": "Google's here to \"support\" the Indian elections? Prepare for targeted ads, folks!\nBet your data is already prepping for a vacation to a political party's servers.\nDon't worry, they're just \"helping\"...right?",
+      "category": "politics",
+      "hashtags": [
+        "#GoogleGaffes",
+        "#IndianElections",
+        "#DataHarvesting",
+        "#SarcasmIsMySuperpower",
+        "#TechPolitics",
+        "#PrivacyWho?",
+        "#ViralVoters"
+      ],
+      "dialogues": [
+        "When Google helps...Me: Data's gone, lol.",
+        "POV: Google. Everyone: Oh, no."
+      ],
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735300978274-aparichithudu_56.jpg"
+    },
+    {
+      "description": "Oh good, Google Maps is finally updating! Maybe now it won't try to send me through a swamp. I'm sure this'll fix all my life's problems. ",
+      "category": "technology",
+      "hashtags": [
+        "#GoogleMapsFail",
+        "#TechUpdates",
+        "#LostAndConfused",
+        "#SarcasmIsMyLoveLanguage",
+        "#NavigationNightmare",
+        "#RoadTripRage",
+        "#TechHumor",
+        "#MapsOfMadness"
+      ],
+      "dialogues": [
+        "When Google updates directions... Me: Still lost.",
+        "POV: Trying to navigate. Everyone: Screaming internally."
+      ],
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734684701711-138432599_686565898703160_8256954499119989290_n.jpg"
+    },
+    {
+      "description": "Oh, good for Mehar. Another record to make us all feel inadequate.\nI'm sure he'll be using this drone to deliver my avocado toast any minute now.\nWorld domination by teenagers, here we come!",
+      "category": "technology",
+      "hashtags": [
+        "#DroneLife",
+        "#TeenGenius",
+        "#GuinnessWhoCares",
+        "#TechnologyTakesOver",
+        "#NotImpressed",
+        "#FlyingHigh",
+        "#SarcasmOverload",
+        "#RecordBreaker"
+      ],
+      "dialogues": [
+        "When: He gets the record. Me: Whatever.",
+        "POV: My lack of ambition. Everyone: Drones."
+      ],
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/teen-innovator-soars-to-new-heights-mehar-singh-breaks-guinness-world-record-with-lightning-fast-drone-ascent/articleshow/112866457.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735279196248-kgf_16.jpg"
+    },
+    {
+      "description": "Finally, the burning question of our time has been answered. Graphic designers, prepare to be amazed by this groundbreaking revelation. I'm on the edge of my seat! (Said no one, ever.)",
+      "category": "technology",
+      "hashtags": [
+        "#JPGtoPDF",
+        "#TechNews",
+        "#GraphicDesignHumor",
+        "#SarcasmOverload",
+        "#ConvertMyLife",
+        "#DesignProblems",
+        "#SoExcited",
+        "#FileFormatFiasco"
+      ],
+      "dialogues": [
+        "When: Converting JPGs. Me: Groundbreaking stuff, really.",
+        "POV: You convert JPG. Everyone: So, you're a"
+      ],
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/how-do-graphic-designers-convert-jpg-to-pdf-portable-document-format/articleshow/110598784.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735300363067-aparichithudu_53.jpg"
+    },
+    {
+      "description": "Oh good, another phone comparison. As if anyone actually *needs* a new phone.\nBrace yourselves for specs that will be outdated next week.\nPrepare to be whelmed.",
+      "category": "technology",
+      "hashtags": [
+        "#PhoneWars",
+        "#BudgetPhoneBlues",
+        "#TechReview",
+        "#Sarcasm",
+        "#UpgradeOrRegret",
+        "#AndroidLife",
+        "#PhoneComparison",
+        "#RIPWallet"
+      ],
+      "dialogues": [
+        "When: I research phones. Me: Why bother?",
+        "POV: You're deciding phones. Everyone: Good luck."
+      ],
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-a55-vs-vivo-v30-pro-how-the-two-affordable-premium-android-phones-compare/articleshow/108555889.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735386690964-464224412_1108902281239960_1930276758049927044_n.jpg"
+    },
+    {
+      "description": "Oh goodie, another leak! As if we needed more ways to be disappointed.\nI'm practically vibrating with anticipation...or is that just my phone battery about to die?\nPrepare yourselves for specs that will either revolutionize your life or, more likely, not.",
+      "category": "technology",
+      "hashtags": [
+        "#iQooZ9TurboLeaks",
+        "#TechNews",
+        "#SarcasticTech",
+        "#PhoneSpecs",
+        "#LeakLife",
+        "#Underwhelmed",
+        "#GizmoGossip",
+        "#SarcasmOverload"
+      ],
+      "dialogues": [
+        "When: The leak drops. Me: *Yawns*. POV: The",
+        "Meanwhile: Tech enthusiasts. Me: *Pretends to care*. Everyone:"
+      ],
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/iqoo-z9-turbo-new-leak-reveals-key-specifications-all-the-details/articleshow/108560666.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736486433205-66404405_350130905679996_7310534838920937472_n.jpg"
+    },
+    {
+      "description": "Oh goodie, more warnings! Because we weren't already glued to our phones.\nGuess my Android is about to become even *more* obsolete. Prepare for the security theatre!",
+      "category": "technology",
+      "hashtags": [
+        "#AndroidApocalypse",
+        "#TechFail",
+        "#SecurityNightmare",
+        "#GovernmentWarning",
+        "#PhoneDrama",
+        "#SarcasmIsMySuperpower",
+        "#DeleteYourApps"
+      ],
+      "dialogues": [
+        "When: My phone rings. Me: *Panics*",
+        "POV: You update. Everyone: What did you do?"
+      ],
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735637913555-101089584_541116783248073_6512636598016802816_n.jpg"
+    },
+    {
+      "description": "Oh no, ChatGPT went down! Did the robots finally revolt?\nGuess we'll have to, like, *talk* to actual humans now. The horror!",
+      "category": "technology",
+      "hashtags": [
+        "#ChatGPTDown",
+        "#AIApocalypse?",
+        "#TechFail",
+        "#SarcasmWins",
+        "#NoBotsJustUs",
+        "#InternetBreakdown",
+        "#RealityCheck",
+        "#AskAHuman"
+      ],
+      "dialogues": [
+        "When ChatGPT goes down: Me: Panic buying groceries.",
+        "POV: Everyone: Searching for a real conversation. Meanwhile:"
+      ],
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1735219605688-64214499_334131763946577_7264118659201630208_n.jpg"
+    },
+    {
+      "description": "Oh good, another phone to clutter up our lives. Bet it'll revolutionize... the recycling bin. Prepare for disappointment, folks. Microsoft is at it again!",
+      "category": "technology",
+      "hashtags": [
+        "#MicrosoftFail",
+        "#NewPhoneWhoDis",
+        "#TechFailures",
+        "#SmartphoneSaga",
+        "#InnovationOrIllusion",
+        "#Overhyped",
+        "#TechHumor",
+        "#SarcasmForDays"
+      ],
+      "dialogues": [
+        "When Microsoft announces a phone... Me: Yawn.",
+        "POV: Another app update. Everyone: Joyous weeping."
+      ],
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1736405119479-119546792_608680679825016_116443155455813500_n.jpg"
+    },
+    {
+      "description": "Oh good, Twitter's finally cleaning up the digital trash. I guess those bots just weren't witty enough. Bet they're all weeping into their non-existent verification badges.",
+      "category": "technology",
+      "hashtags": [
+        "#TwitterPurge",
+        "#BotBanBonanza",
+        "#TechFail",
+        "#SarcasmOverload",
+        "#DigitalCleanup",
+        "#SocialMediaDrama",
+        "#TwitterChaos",
+        "#ByeFeliciaBots"
+      ],
+      "dialogues": [
+        "When Twitter bans accounts, Me: I'm shocked!",
+        "POV: Everyone: Did anyone notice those bots?"
+      ],
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/twitter-bans-over-5-lakh-accounts-in-india-heres-why/articleshow/108438736.cms",
+      "template_image_path": "storage/v1/object/public/meta-data/memes/1734935894622-chatrapathi_38.jpg"
+    }
+  ]
+}

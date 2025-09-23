@@ -1,0 +1,329 @@
+{
+  "timestamp": "2025-09-23T09:55:33.377852",
+  "total_articles": 60,
+  "categories": [
+    "politics",
+    "movies",
+    "entertainment",
+    "sports",
+    "business",
+    "technology"
+  ],
+  "target_per_category": 10,
+  "selection_method": "Top buzz score with guaranteed minimum",
+  "total_images": 13,
+  "categorized_news": {
+    "politics": [
+      {
+        "content": "Why TMC govt is on alert as Kurmis reignite ST status demand, threaten rail and road blockade in 3 states",
+        "url": "https://indianexpress.com/article/political-pulse/why-tmc-govt-is-on-alert-as-kurmis-reignite-st-status-demand-threaten-rail-and-road-blockade-in-3-states-10260346/",
+        "image_path": "output/images/politics_ie_politics_13.jpg"
+      },
+      {
+        "content": "Congress in crisis in Wayanad, but Priyanka Gandhi steers clear of ‘local politics’ during ongoing visit: ‘Workers not happy’",
+        "url": "https://indianexpress.com/article/political-pulse/wayanad-congress-crisis-priyanka-gandhi-visit-workers-not-happy-10260217/",
+        "image_path": "output/images/politics_ie_politics_15.jpg"
+      },
+      {
+        "content": "How Karnataka voter deletions flagged by Rahul Gandhi were caught: An alert BLO, a veteran leader’s grassroots links",
+        "url": "https://indianexpress.com/article/political-pulse/karnataka-voter-deletions-rahul-gandhi-blo-10258585/",
+        "image_path": "output/images/politics_ie_politics_19.jpg"
+      },
+      {
+        "content": "India/Sep 23, 2025‘India a pivotal voice’: UN chief Guterres backs calls for UNSC reform; wants council to represent ‘world of 2025, not 1945’UN secretary-general Antonio Guterres supports UNSC reform to mirror current global dynamics, acknowledging India's growing influence. While the decision on permanent membership rests with member states, India actively seeks a seat, emphasizing its qualifications. The UN also voices concerns about rising global protectionism and its detrimental effects on global development and economic stability.",
+        "url": "https://timesofindia.indiatimes.com/india/india-a-pivotal-voice-un-chief-guterres-backs-calls-for-unsc-reform-wants-council-to-represent-world-of-2025-not-1945/articleshow/124060926.cms",
+        "image_path": "output/images/politics_toi_politics_0.jpg"
+      },
+      {
+        "content": "IMD warns of heavy rain in West Bengal for next 3 days, yellow alert for Kolkata",
+        "url": "https://www.hindustantimes.com/india-news/imd-warns-of-heavy-rain-in-west-bengal-next-3-days-yellow-alert-for-kolkata-101758590966258.html",
+        "image_path": null
+      },
+      {
+        "content": "Police arrest 4 for kidnap, suicide of taxi driver in Bhubaneswar",
+        "url": "https://www.hindustantimes.com/india-news/police-arrest-4-for-kidnap-suicide-of-taxi-driver-in-bhubaneswar-101758565818594.html",
+        "image_path": null
+      },
+      {
+        "content": "Ruckus during 'I Love Mohammad' procession in Uttarakhand, seven arrested",
+        "url": "https://www.hindustantimes.com/india-news/ruckus-during-i-love-mohammad-procession-in-uttarakhand-seven-arrested-101758563254055.html",
+        "image_path": null
+      },
+      {
+        "content": "Karnataka caste survey begins today amid unease in Congress, BJP’s objections",
+        "url": "https://indianexpress.com/article/political-pulse/karnataka-caste-survey-tomorrow-unease-congress-bjps-objections-10263294/",
+        "image_path": "output/images/politics_ie_politics_4.jpg"
+      },
+      {
+        "content": "Discord in Lalu Prasad’s family over growing clout of Tejashwi’s advisor? Rohini Acharya unfollows father, brother on X",
+        "url": "https://indianexpress.com/article/political-pulse/discord-lalu-prasads-family-over-growing-clout-tejashwis-advisor-rohini-acharya-unfollows-father-brother-10263258/",
+        "image_path": "output/images/politics_ie_politics_5.png"
+      },
+      {
+        "content": "135 cases of President’s Rule, two-thirds of the time, a new party came to power after it was lifted",
+        "url": "https://indianexpress.com/article/political-pulse/135-instances-presidents-rule-two-thirds-new-party-came-to-power-post-it-10260870/",
+        "image_path": "output/images/politics_ie_politics_9.png"
+      }
+    ],
+    "movies": [
+      {
+        "content": "The Mandalorian and Grogu",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-mandalorian-and-grogu-trailer-pedro-pascal-returns-as-din-djarin-with-grogu-in-new-film-adventure/articleshow/124050880.cms",
+        "image_path": null
+      },
+      {
+        "content": "Jolly LLB 3 Box Office Collection",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/jolly-llb-3-box-office-collection-day-3-the-akshay-kumar-arshad-warsi-film-sees-growth-on-sunday-crosses-rs-50-crore/articleshow/124035122.cms",
+        "image_path": null
+      },
+      {
+        "content": "Trending Videos",
+        "url": "https://www.news18.com/videos/",
+        "image_path": null
+      },
+      {
+        "content": "Jolly LLB 3 box office collection day 3: Akshay Kumar, Arshad Warsi film crosses Rs 50 cr, 8th highest first weekend earner of 2025",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/jolly-llb-3-box-office-collection-day-3-akshay-kumar-arshad-warsis-courtroom-comedy-crosses-rs-50-cr-8th-highest-first-weekend-earner-of-2025-10263779/",
+        "image_path": "output/images/entertainment_ie_entertainment_0.jpg"
+      },
+      {
+        "content": "Inside Riddhima Kapoor’s lavish Delhi home that looks like a 7-star hotel: 'I have a room in Ranbir-Alia's new Mumbai home, mom Neetu has a floor'",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/inside-riddhima-kapoor-lavish-delhi-home-7-star-hotel-ranbir-kapoor-alia-bhatt-bandra-house-neetu-kapoor-entire-floor-10264644/",
+        "image_path": null
+      },
+      {
+        "content": "They Call Him OG trailer: Pawan Kalyan and Emraan Hashmi lock horns in a 'Jo Jeeta Wohi Sikandar' battle",
+        "url": "https://indianexpress.com/article/entertainment/telugu/they-call-him-og-trailer-pawan-kalyan-and-emraan-hashmi-lock-horns-in-a-jo-jeeta-wohi-sikandar-battle-watch-10264488/",
+        "image_path": null
+      },
+      {
+        "content": "Akshay Kumar felt 'safe' when he had Rs 100 cr fixed deposit, now wants Rs 2000 cr FD; still switches off lights when kids leave a room: 'Not kanjoosi...'",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/akshay-kumar-felt-safe-when-he-had-rs-100-cr-fixed-deposit-now-wants-rs-2000-cr-fd-still-switches-off-lights-when-kids-leave-a-room-not-kanjoosi-akshay-kumar-first-made-his-screen-prese-10263826/",
+        "image_path": null
+      },
+      {
+        "content": "Kantara 2 trailer: Rishab Shetty sets the stage for a monumental origin tale as he returns to protect 'dharma'",
+        "url": "https://indianexpress.com/article/entertainment/regional/kantara-2-trailer-rishab-shetty-sets-the-stage-for-a-monumental-origin-tale-10264313/",
+        "image_path": null
+      },
+      {
+        "content": "The Ba***ds of Bollywood breaks into Netflix’s Top 10 rankings globally; challenges Money Heist creators’ new show Billionaires’ Bunker",
+        "url": "https://indianexpress.com/article/entertainment/web-series/the-bads-of-bollywood-breaks-into-netflix-top-10-rankings-globally-challenges-money-heist-creators-billionaires-bunker-10265843/",
+        "image_path": null
+      },
+      {
+        "content": "Jolly LLB 3 box office collection day 4: Akshay Kumar, Arshad Warsi’s comedy witnesses a major fall on Monday, hits Rs 60 crore",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/jolly-llb-3-box-office-collection-day-4-akshay-kumar-arshad-warsi-rs-59-cr-10265860/",
+        "image_path": null
+      }
+    ],
+    "entertainment": [
+      {
+        "content": "Jolly LLB 3 box office collection day 4: Akshay Kumar, Arshad Warsi’s comedy witnesses a major fall on Monday, hits Rs 60 crore",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/jolly-llb-3-box-office-collection-day-4-akshay-kumar-arshad-warsi-rs-59-cr-10265860/",
+        "image_path": null
+      },
+      {
+        "content": "The Ba***ds of Bollywood breaks into Netflix’s Top 10 rankings globally; challenges Money Heist creators’ new show Billionaires’ Bunker",
+        "url": "https://indianexpress.com/article/entertainment/web-series/the-bads-of-bollywood-breaks-into-netflix-top-10-rankings-globally-challenges-money-heist-creators-billionaires-bunker-10265843/",
+        "image_path": null
+      },
+      {
+        "content": "Basil Joseph told Anurag Kashyap he ‘wasted two years of my life trying to do Shaktimaan’; asked, ‘How do you survive in Bollywood?’",
+        "url": "https://indianexpress.com/article/entertainment/malayalam/basil-joseph-told-anurag-kashyap-he-wasted-two-years-of-my-life-trying-to-do-shaktimaan-10265258/",
+        "image_path": null
+      },
+      {
+        "content": "NHRC demands action against Ranbir Kapoor, Netflix and Gauri Khan as actor seen vaping in Aryan Khan’s The Ba***ds of Bollywood",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/nhrc-demands-action-against-ranbir-kapoor-netflix-and-gauri-khan-as-actor-seen-vaping-in-aryan-khans-the-bads-of-bollywood-10264830/",
+        "image_path": null
+      },
+      {
+        "content": "The Ba***ds of Bollywood breathes new life into Bobby Deol’s 1997 song ‘Duniya Haseeno Ka Mela’, watch",
+        "url": "https://indianexpress.com/article/entertainment/web-series/the-bads-of-bollywood-breathes-new-life-into-bobby-deols-1997-song-duniya-haseeno-ka-mela-10264117/",
+        "image_path": null
+      },
+      {
+        "content": "Jolly LLB 3 box office collection day 3: Akshay Kumar, Arshad Warsi film crosses Rs 50 cr, 8th highest first weekend earner of 2025",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/jolly-llb-3-box-office-collection-day-3-akshay-kumar-arshad-warsis-courtroom-comedy-crosses-rs-50-cr-8th-highest-first-weekend-earner-of-2025-10263779/",
+        "image_path": "output/images/entertainment_ie_entertainment_0.jpg"
+      },
+      {
+        "content": "Akshay Kumar felt 'safe' when he had Rs 100 cr fixed deposit, now wants Rs 2000 cr FD; still switches off lights when kids leave a room: 'Not kanjoosi...'",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/akshay-kumar-felt-safe-when-he-had-rs-100-cr-fixed-deposit-now-wants-rs-2000-cr-fd-still-switches-off-lights-when-kids-leave-a-room-not-kanjoosi-akshay-kumar-first-made-his-screen-prese-10263826/",
+        "image_path": null
+      },
+      {
+        "content": "Pawan Kalyan’s They Call Him OG movie ticket fetches Rs 1,29,999 at auction for early morning benefit show",
+        "url": "https://indianexpress.com/article/entertainment/telugu/pawan-kalyan-film-og-ticket-fetches-rs-129999-at-auction-for-early-morning-benefit-show-10264834/",
+        "image_path": null
+      },
+      {
+        "content": "Jolly LLB 3 Box Office Collection",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/jolly-llb-3-box-office-collection-day-3-the-akshay-kumar-arshad-warsi-film-sees-growth-on-sunday-crosses-rs-50-crore/articleshow/124035122.cms",
+        "image_path": null
+      },
+      {
+        "content": "Inside Riddhima Kapoor’s lavish Delhi home that looks like a 7-star hotel: 'I have a room in Ranbir-Alia's new Mumbai home, mom Neetu has a floor'",
+        "url": "https://indianexpress.com/article/entertainment/bollywood/inside-riddhima-kapoor-lavish-delhi-home-7-star-hotel-ranbir-kapoor-alia-bhatt-bandra-house-neetu-kapoor-entire-floor-10264644/",
+        "image_path": null
+      }
+    ],
+    "sports": [
+      {
+        "content": "Sports/Sep 23, 2025'Tu na sudhri, bas chakke maari jaayi': Watch Abhishek's net session with YuvrajA viral video showcases Abhishek Sharma honing his skills under Yuvraj Singh's mentorship, emphasising situational awareness alongside aggressive hitting. Abhishek's father credits Yuvraj's guidance for his son's development, focusing on team success. This mentorship bore fruit in India's victory over Pakistan, where Abhishek's explosive innings and record-breaking six-hitting cemented his position as a formidable T20I batter.",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/tu-na-sudhri-bas-chakke-maari-jaayi-yuvraj-singhs-advice-shapes-abhishek-sharma-watch-viral-net-session/articleshow/124059148.cms",
+        "image_path": null
+      },
+      {
+        "content": "Sports/Sep 23, 2025'Six-hitting ability is god-gifted': Abhishek’s father credits Yuvraj for son's riseAbhishek Sharma, known for his effortless six-hitting, showcased his talent against Pakistan with a blistering 74 off 39 balls. Mentored by Yuvraj Singh, Abhishek combines natural flair with strategic gameplay. His journey from U-19 cricket to IPL stardom has prepared him for the international stage, where he aims to win matches for India.",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/his-six-hitting-ability-is-god-gifted-abhishek-sharmas-father-credits-yuvraj-singh-for-sons-rise/articleshow/124058576.cms",
+        "image_path": "output/images/sports_toi_sports_0.jpg"
+      },
+      {
+        "content": "Sports/Sep 23, 2025Dembele wins Ballon d’Or 2025; Bonmati clinches third consecutive award",
+        "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/ousmane-dembele-wins-ballon-dor-2025-aitana-bonmati-clinches-third-consecutive-womens-award/articleshow/124058687.cms",
+        "image_path": "output/images/sports_toi_sports_4.jpg"
+      },
+      {
+        "content": "'Agar main Pakistan ka coach bana': Rohit Sharma's advice goes viral after India rout Pakistan in the Asia Cup",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/agar-main-pakistan-ka-coach-bana-rohit-sharmas-comment-goes-viral-after-india-rout-pakistan/articleshow/124050234.cms",
+        "image_path": null
+      },
+      {
+        "content": "Sports/Sep 23, 2025'Unhone IPL me bhi umpiring karni hai': Afridi's dig after Fakhar dismissal",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/unhone-ipl-me-bhi-umpiring-karni-hai-shahid-afridis-dig-after-fakhar-zaman-dismissal-sparks-row/articleshow/124058832.cms",
+        "image_path": "output/images/sports_toi_sports_5.jpg"
+      },
+      {
+        "content": "'Tu na sudhri, bas chakke maari jaayi': Yuvraj Singh's advice shapes Abhishek Sharma – Watch viral net session",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/asia-cup/tu-na-sudhri-bas-chakke-maari-jaayi-yuvraj-singhs-advice-shapes-abhishek-sharma-watch-viral-net-session/articleshow/124059148.cms",
+        "image_path": null
+      },
+      {
+        "content": "Dembélé wins the Ballon d'Or 2025; denies Yamal a youngest-ever record",
+        "url": "https://www.hindustantimes.com/sports/football/ousmane-demb-l-wins-the-ballon-dor-2025-denies-lamine-yamal-a-youngest-ever-record-101758588778386.html",
+        "image_path": null
+      },
+      {
+        "content": "Andy Reid defends Travis Kelce as heated sideline exchange goes viral. Watch",
+        "url": "https://www.hindustantimes.com/sports/us-sports/watch-coach-andy-reid-defends-travis-kelce-as-heated-sideline-exchange-goes-viral-hes-an-emotional-guy-101758547520338.html",
+        "image_path": null
+      },
+      {
+        "content": "Paris St Germain and France forward Ousmane Dembele wins 2025 Ballon d’Or",
+        "url": "https://indianexpress.com/article/sports/football/paris-st-germain-france-forward-ousmane-dembele-wins-2025-ballon-dor-10265656/",
+        "image_path": null
+      },
+      {
+        "content": "Ballon d’Or 2025 Ceremony HIGHLIGHTS: Ousmane Dembele wins 2025 Ballon d’Or",
+        "url": "https://indianexpress.com/article/sports/football/ballon-dor-2025-ceremony-live-updates-lamine-yamal-ousmane-dembele-among-prime-contenders-10264715/",
+        "image_path": null
+      }
+    ],
+    "business": [
+      {
+        "content": "MP news: Two dead, 12 injured as three-storey building collapses in Indore",
+        "url": "https://www.livemint.com/news/india/madhya-pradesh-two-dead-12-injured-as-three-storey-building-collapses-in-indore-11758594063243.html",
+        "image_path": null
+      },
+      {
+        "content": "Kolkata rain alert: Bay of Bengal low pressure likely to bring heavy rainfall",
+        "url": "https://www.livemint.com/news/india/kolkata-rain-low-pressure-bay-of-bengal-imd-alert-waterlogging-areas-traffic-routes-to-avoid-durga-puja-11758593564981.html",
+        "image_path": null
+      },
+      {
+        "content": "Atlanta Electricals IPO Day 2: Check latest GMP, key details, what analysts say",
+        "url": "https://www.moneycontrol.com/news/business/ipo/atlanta-electricals-ipo-day-2-check-latest-gmp-key-details-what-analysts-say-13569027.html",
+        "image_path": null
+      },
+      {
+        "content": "OPINION | India faces diplomatic test amid Nepal's political upheaval",
+        "url": "https://www.moneycontrol.com/news/opinion/india-faces-diplomatic-test-amid-nepal-s-political-upheaval-13568917.html",
+        "image_path": null
+      },
+      {
+        "content": "Top diplomats from US, South Korea, Japan voice concern on Taiwan Strait",
+        "url": "https://www.moneycontrol.com/world/top-diplomats-from-us-south-korea-japan-voice-concern-on-taiwan-strait-article-13568512.html",
+        "image_path": null
+      },
+      {
+        "content": "Rahul Gandhi’s election integrity campaign has grabbed attention, but can it deliver votes?",
+        "url": "https://www.moneycontrol.com/news/opinion/rahul-gandhi-s-election-integrity-campaign-has-grabbed-attention-but-can-it-deliver-votes-13565950.html",
+        "image_path": null
+      },
+      {
+        "content": "Aadhaar should be integrated with chips to ensure fair elections: Akhilesh Yadav",
+        "url": "https://www.moneycontrol.com/news/india/aadhaar-should-be-integrated-with-chips-to-ensure-fair-elections-akhilesh-yadav-13563624.html",
+        "image_path": null
+      },
+      {
+        "content": "From Madhuri Dixit to Nimrit kaur: Look at Bollywood actresses celebrating 9 colours of Navratari",
+        "url": "https://www.moneycontrol.com/entertainment/from-madhuri-dixit-to-nimrit-kaur-look-at-bollywood-actresses-celebrating-9-colours-of-navratari-photo-gallery-13567834.html",
+        "image_path": null
+      },
+      {
+        "content": "Prime Exclusives",
+        "url": "https://economictimes.indiatimes.com/prime?source=homepage&medium=prime_exclusives_header&campaign=prime_discovery",
+        "image_path": "output/images/business_economic_times_0.jpg"
+      },
+      {
+        "content": "Jaishankar meets Rubio, Goyal calls on Greer. What it means for India-US ties?",
+        "url": "https://www.livemint.com/news/india/jaishankar-meets-rubio-goyal-calls-on-greer-in-nyc-amid-tariffs-h-1b-fee-hike-row-what-it-means-for-india-us-ties-11758589799831.html",
+        "image_path": null
+      }
+    ],
+    "technology": [
+      {
+        "content": "3 ways Google aims to support the 2024 Indian General Elections",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/google-gets-ready-for-elections-in-india-with-new-features-and-more/articleshow/108432040.cms",
+        "image_path": null
+      },
+      {
+        "content": "Google Maps to get better with directions with future updates, here’s what’s changing",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/google-maps-to-get-better-with-directions-with-future-updates-heres-whats-changing/articleshow/108392934.cms",
+        "image_path": null
+      },
+      {
+        "content": "Teen Innovator Soars to New Heights: Mehar Singh Breaks Guinness World Record with Lightning-Fast Drone Ascent",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/teen-innovator-soars-to-new-heights-mehar-singh-breaks-guinness-world-record-with-lightning-fast-drone-ascent/articleshow/112866457.cms",
+        "image_path": null
+      },
+      {
+        "content": "How do graphic designers convert JPG to PDF (Portable Document Format)?",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/how-do-graphic-designers-convert-jpg-to-pdf-portable-document-format/articleshow/110598784.cms",
+        "image_path": null
+      },
+      {
+        "content": "Samsung Galaxy A55 vs Vivo V30 Pro: How the two affordable premium Android phones compare",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-a55-vs-vivo-v30-pro-how-the-two-affordable-premium-android-phones-compare/articleshow/108555889.cms",
+        "image_path": null
+      },
+      {
+        "content": "iQoo Z9 Turbo new leak reveals key specifications: All the details",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/iqoo-z9-turbo-new-leak-reveals-key-specifications-all-the-details/articleshow/108560666.cms",
+        "image_path": null
+      },
+      {
+        "content": "Government issues warning for these Android smartphone and tablet users",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/government-issues-warning-for-these-android-smartphone-and-tablet-users/articleshow/108471249.cms",
+        "image_path": null
+      },
+      {
+        "content": "ChatGPT was down globally, here’s what the company has to say",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/chatgpt-was-down-globally-heres-what-the-company-has-to-say/articleshow/108443030.cms",
+        "image_path": null
+      },
+      {
+        "content": "Microsoft plans to take on iPhone and Android smartphones with this new device",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-plans-to-take-on-iphone-and-android-smartphones-with-this-new-device/articleshow/108439136.cms",
+        "image_path": null
+      },
+      {
+        "content": "Twitter bans over 5 lakh accounts in India, here's why",
+        "url": "https://timesofindia.indiatimes.com/gadgets-news/twitter-bans-over-5-lakh-accounts-in-india-heres-why/articleshow/108438736.cms",
+        "image_path": null
+      }
+    ]
+  }
+}
