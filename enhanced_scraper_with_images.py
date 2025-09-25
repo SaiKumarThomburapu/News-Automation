@@ -27,32 +27,36 @@ class EnhancedNewsExtractorWithImages:
         
         # OPTIMIZED: More sources per category to ensure we get enough articles
         self.news_sources = {
-            # POLITICS SOURCES - Increased
-            'ie_politics': {'url': 'https://indianexpress.com/section/political-pulse/', 'selectors': ['h3 a', 'h2 a'], 'category': 'politics'},
-            'toi_politics': {'url': 'https://timesofindia.indiatimes.com/india', 'selectors': ['a[href*="/articleshow/"]', 'h3 a'], 'category': 'politics'},
-            'ht_politics': {'url': 'https://www.hindustantimes.com/india-news', 'selectors': ['h3 a', 'h2 a'], 'category': 'politics'},
-            
-            # ENTERTAINMENT & MOVIES SOURCES - Increased
-            'toi_entertainment': {'url': 'https://timesofindia.indiatimes.com/entertainment', 'selectors': ['a[href*="/articleshow/"]', 'h3 a'], 'category': 'entertainment'},
-            'toi_movies': {'url': 'https://timesofindia.indiatimes.com/entertainment/bollywood', 'selectors': ['a[href*="/articleshow/"]', 'h3 a'], 'category': 'movies'},
-            'news18_entertainment': {'url': 'https://www.news18.com/entertainment/', 'selectors': ['h3 a', 'h2 a'], 'category': 'entertainment'},
-            'ie_entertainment': {'url': 'https://indianexpress.com/section/entertainment/', 'selectors': ['h3 a', 'h2 a'], 'category': 'entertainment'},
-            
-            # SPORTS SOURCES - Increased
-            'toi_sports': {'url': 'https://timesofindia.indiatimes.com/sports', 'selectors': ['a[href*="/articleshow/"]', 'h3 a'], 'category': 'sports'},
-            'ht_sports': {'url': 'https://www.hindustantimes.com/sports', 'selectors': ['h3 a', 'h2 a'], 'category': 'sports'},
-            'ie_sports': {'url': 'https://indianexpress.com/section/sports/', 'selectors': ['h3 a', 'h2 a'], 'category': 'sports'},
-            
-            # BUSINESS SOURCES - Increased
-            'economic_times': {'url': 'https://economictimes.indiatimes.com/', 'selectors': ['h3 a', 'h2 a'], 'category': 'business'},
-            'livemint': {'url': 'https://www.livemint.com/', 'selectors': ['h3 a', 'h2 a'], 'category': 'business'},
-            'moneycontrol': {'url': 'https://www.moneycontrol.com/news/', 'selectors': ['h3 a', 'h2 a'], 'category': 'business'},
-            
-            # TECHNOLOGY SOURCES - Increased
-            'toi_technology': {'url': 'https://timesofindia.indiatimes.com/gadgets-news', 'selectors': ['a[href*="/articleshow/"]', 'h3 a'], 'category': 'technology'},
-            'et_tech': {'url': 'https://economictimes.indiatimes.com/tech', 'selectors': ['h3 a', 'h2 a'], 'category': 'technology'},
-            'ht_tech': {'url': 'https://www.hindustantimes.com/tech', 'selectors': ['h3 a', 'h2 a'], 'category': 'technology'},
-        }
+    # POLITICS SOURCES - Top 3
+    'ie_politics': {'url': 'https://indianexpress.com/section/political-pulse/', 'selectors': ['h3 a', 'h2 a'], 'category': 'politics'},
+    'toi_politics': {'url': 'https://timesofindia.indiatimes.com/india', 'selectors': ['a[href*="/articleshow/"]', 'h3 a'], 'category': 'politics'},
+    'ht_politics': {'url': 'https://www.hindustantimes.com/india-news', 'selectors': ['h3 a', 'h2 a'], 'category': 'politics'},
+
+    # ENTERTAINMENT & MOVIES SOURCES - Top 3
+    'toi_movies': {'url': 'https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news', 'selectors': ['a[href*="/articleshow/"]', 'h3 a'], 'category': 'movies'},
+    'news18_entertainment': {'url': 'https://www.news18.com/entertainment/', 'selectors': ['h3 a', 'h2 a'], 'category': 'entertainment'},
+    'indiatoday_entertainment': {'url': 'https://www.indiatoday.in/movies', 'selectors': ['h2 a', 'h3 a'], 'category': 'entertainment'},
+
+    # SPORTS SOURCES - Top 3
+    'toi_sports': {'url': 'https://timesofindia.indiatimes.com/sports', 'selectors': ['a[href*="/articleshow/"]', 'h3 a'], 'category': 'sports'},
+    'ht_sports': {'url': 'https://www.hindustantimes.com/sports', 'selectors': ['h3 a', 'h2 a'], 'category': 'sports'},
+    'indiatoday_sports': {'url': 'https://www.indiatoday.in/sports', 'selectors': ['h2 a', 'h3 a'], 'category': 'sports'},
+
+    # BUSINESS SOURCES - Top 3
+    'economic_times': {'url': 'https://economictimes.indiatimes.com/', 'selectors': ['h3 a', 'h2 a'], 'category': 'business'},
+    'livemint': {'url': 'https://www.livemint.com/', 'selectors': ['h3 a', 'h2 a'], 'category': 'business'},
+    'moneycontrol': {'url': 'https://www.moneycontrol.com/news/', 'selectors': ['h3 a', 'h2 a'], 'category': 'business'},
+
+    # TECHNOLOGY SOURCES - Top 3
+    'toi_technology': {'url': 'https://timesofindia.indiatimes.com/gadgets-news', 'selectors': ['a[href*="/articleshow/"]', 'h3 a'], 'category': 'technology'},
+    'et_tech': {'url': 'https://economictimes.indiatimes.com/tech', 'selectors': ['h3 a', 'h2 a'], 'category': 'technology'},
+    'indiatoday_tech': {'url': 'https://www.indiatoday.in/technology/news', 'selectors': ['h2 a', 'h3 a'], 'category': 'technology'},
+
+    # TRENDING / VIRAL SOURCES - Top 3
+    'ht_trending': {'url': 'https://www.hindustantimes.com/trending', 'selectors': ['h3 a', 'h2 a'], 'category': 'trending'},
+    'indianexpress_trending': {'url': 'https://indianexpress.com/section/trending/', 'selectors': ['h3 a', 'h2 a'], 'category': 'trending'},
+    'indiatoday_trending': {'url': 'https://www.indiatoday.in/trending-news', 'selectors': ['h2 a', 'h3 a'], 'category': 'trending'},
+}
          
         self.downloaded_image_hashes = set()
         self.setup_output_directory()

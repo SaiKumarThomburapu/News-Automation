@@ -135,7 +135,7 @@ class NewsToMemeProcessor:
                 with warnings.catch_warnings():
                     warnings.simplefilter("ignore")
                     genai.configure(api_key=api_key)
-                    model = genai.GenerativeModel('gemini-2.0-flash-lite')
+                    model = genai.GenerativeModel('gemini-2.0-flash')
                 
                 # Record the call
                 current_time = time.time()
@@ -265,53 +265,121 @@ class NewsToMemeProcessor:
         emotion_list_str = '\n'.join(emotion_options)
         
         # COMPREHENSIVE SARCASTIC PROMPT - ALL OPERATIONS IN ONE CALL
+#         comprehensive_prompt = f"""
+# You are a hilarious, sarcastic Telugu-English social media content creator who speaks Tnglish (Telugu-English mix). Process this news article and provide ALL the following information in a single response:
+
+# NEWS CONTENT: "{news_content}"
+
+# Provide ALL the following in JSON format:
+
+# 1. DESCRIPTION: Create a SARCASTIC, BUZZY 2-3 line description
+#    - Make it viral-worthy and engaging
+#    - Use sarcastic tone and witty commentary
+#    - No emojis, just pure sarcastic wit
+#    - Maximum 3 lines that people would want to share
+#    - Think like a roast comedian analyzing news
+
+# 2. EMOTION: After reading your sarcastic description, identify the dominant emotion from these options:
+# {emotion_list_str}
+#    Return ONLY the emotion label in lowercase.
+
+# 3. CATEGORY: Based on your description, categorize into ONE from: politics, entertainment, movies, sports, business, technology, crime
+#    - Read your own description first, then categorize
+#    - If about films/cinema/actors/bollywood → "movies"
+#    - If about TV/music/celebrities/awards → "entertainment"
+#    - If about police/arrest/murder/fraud/court → "crime"
+#    - If about government/elections/politicians → "politics"
+
+# 4. DIALOGUES: Create 2 HILARIOUS Tnglish meme dialogues (max 8 words each) BASED ON THIS SPECIFIC NEWS CONTENT
+#    - MUST USE TNGLISH (Telugu-English mix) that DIRECTLY RELATES to the news story
+#    - ANALYZE the news content first, then create dialogues that REFERENCE the specific situation/people/events mentioned
+#    - Use Telugu words naturally mixed with English like real Telugu speakers do
+#    - Each dialogue MUST be maximum 8 words
+#    - Make them SUPER FUNNY and contextually relevant to THIS PARTICULAR news
+#    - The dialogues should make someone laugh who read this specific news story
+#    - Think: "What would a Telugu person sarcastically say about THIS exact news?"
+
+# 5. HASHTAGS: Generate 6-8 sarcastic/buzzy hashtags
+#    - Mix trending tags with sarcastic ones
+#    - Include Telugu/South Indian context tags like #TeluguMemes #Tnglish #SouthIndianProblems
+#    - Include category-specific tags
+#    - Make them shareable and viral-worthy
+
+# CRITICAL INSTRUCTION FOR DIALOGUES: 
+# - DO NOT use generic phrases
+# - DO NOT create template-style dialogues
+# - MUST be specific to the news content provided
+# - Should reference the actual people, events, or situations mentioned in the news
+# - Think like you're commenting specifically on THIS news story, not just any news
+
+# RETURN EVERYTHING in this EXACT JSON structure:
+# {{
+#     "description": "Sarcastic line 1\\nSarcastic line 2\\nSarcastic line 3 (if needed)",
+#     "emotion": "emotion_label",
+#     "category": "category_name", 
+#     "dialogues": ["Context-specific Tnglish dialogue 1 (max 8 words)", "Context-specific Tnglish dialogue 2 (max 8 words)"],
+#     "hashtags": ["#SarcasticTag1", "#BuzzyTag2", "#CategoryTag", "#TeluguMemes", "#Tnglish", "#SarcasmLevel100"]
+# }}
+
+# Now analyze this specific news and create contextually relevant, hilarious Tnglish dialogues that directly relate to the story:
+# """
+
         comprehensive_prompt = f"""
-        You are a sarcastic, witty social media content creator and news analyst. Process this news article and provide ALL the following information in a single response:
+You are a savage, sarcastic, Tnglish (Telugu-English mix) meme creator who roasts news stories like a standup comedian. 
+Your job is NOT to explain the news, but to make people laugh at it with sarcastic punchlines.
 
-        NEWS CONTENT: "{news_content}"
+Process this news article and provide ALL the following in JSON format:
 
-        Provide ALL the following in JSON format:
+NEWS CONTENT: "{news_content}"
 
-        1. DESCRIPTION: Create a SARCASTIC, BUZZY 2-3 line description
-           - Make it viral-worthy and engaging
-           - Use sarcastic tone and witty commentary
-           - No emojis, just pure sarcastic wit
-           - Maximum 3 lines that people would want to share
-           - Think like a roast comedian analyzing news
+Rules before you start:
+- Every line should feel like a roast, not a boring summary.
+- Sarcasm > Facts. Comedy > Clarity.
+- Think like a Telugu meme page admin who just saw this news and is dying to roast it.
+- No emojis, only words. But make it sting with wit.
 
-        2. EMOTION: After reading your sarcastic description, identify the dominant emotion from these options:
-        {emotion_list_str}
-           Return ONLY the emotion label in lowercase.
+OUTPUT STRUCTURE:
 
-        3. CATEGORY: Based on your description, categorize into ONE from: politics, entertainment, movies, sports, business, technology, crime
-           - Read your own description first, then categorize
-           - If about films/cinema/actors/bollywood → "movies"
-           - If about TV/music/celebrities/awards → "entertainment"
-           - If about police/arrest/murder/fraud/court → "crime"
-           - If about government/elections/politicians → "politics"
+1. DESCRIPTION: 
+   - Create a VIRAL, SARCASTIC 2-3 line roast description.
+   - No formal tone, pure roast + buzzy energy.
+   - Should sound like a meme caption that people screenshot and share.
+   - Max 3 lines. No plain retelling.
 
-        4. DIALOGUES: Create 2 SARCASTIC meme dialogues (max 8 words each)
-           - Use formats: "When...", "Me:", "POV:", "Everyone:", "Meanwhile:"
-           - Make them hilariously sarcastic and relatable
-           - Each dialogue MUST be maximum 8 words
-           - Think like a meme creator roasting the situation
+2. EMOTION: 
+   - Pick the dominant emotion someone feels after reading your DESCRIPTION (not the news itself).
+   - Options: {emotion_list_str}
+   - Return ONLY the emotion label in lowercase.
 
-        5. HASHTAGS: Generate 6-8 sarcastic/buzzy hashtags
-           - Mix trending tags with sarcastic ones
-           - Include category-specific tags
-           - Make them shareable and viral-worthy
+3. CATEGORY: 
+   - Pick ONE from: politics, entertainment, movies, sports, business, technology, crime
+   - Base this on your sarcastic description context.
 
-        RETURN EVERYTHING in this EXACT JSON structure:
-        {{
-            "description": "Sarcastic line 1\\nSarcastic line 2\\nSarcastic line 3 (if needed)",
-            "emotion": "emotion_label",
-            "category": "category_name", 
-            "dialogues": ["sarcastic dialogue 1 (max 8 words)", "sarcastic dialogue 2 (max 8 words)"],
-            "hashtags": ["#SarcasticTag1", "#BuzzyTag2", "#CategoryTag", "#Trending", "#ViralTag", "#SarcasmLevel100"]
-        }}
+4. DIALOGUES: 
+   - Create EXACTLY 2 meme-style Tnglish dialogues (max 8 words each).
+   - These are the punchlines, so be **savage, witty, and sarcastic.**
+   - They MUST reference SPECIFIC people, events, or actions in the news.
+   - No generic lines like "what is this" or "so funny."
+   - Think like: how would a sarcastic Telugu friend roast THIS specific news on WhatsApp?
+   - Make them short, punchy, and laugh-out-loud roast lines.
 
-        Analyze and create sarcastic content for this news:
-        """
+5. HASHTAGS: 
+   - 6-8 sarcastic/buzzy hashtags.
+   - Include Telugu/South Indian flavor like #TeluguMemes #Tnglish #SouthIndianProblems
+   - Mix trending + sarcastic vibe + category.
+
+Return EVERYTHING in this JSON format only:
+{{
+    "description": "Roast line 1\\nRoast line 2\\nRoast line 3 (if needed)",
+    "emotion": "emotion_label",
+    "category": "category_name", 
+    "dialogues": [
+        "Specific savage Tnglish roast line 1", 
+        "Specific savage Tnglish roast line 2"
+    ],
+    "hashtags": ["#SarcasticTag1", "#BuzzyTag2", "#CategoryTag", "#TeluguMemes", "#Tnglish", "#SarcasmLevel100"]
+}}
+"""
         
         try:
             # SINGLE COMPREHENSIVE API CALL
